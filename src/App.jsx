@@ -55,7 +55,7 @@ const App = () => {
 
   return (
     <div className="app">
-    <h1>TIC<span className="text-green">TAC</span> TOE</h1>
+    <h1>TIC <span className="text-green">TAC</span> TOE</h1>
     <StatusMessage winner={winner} current = {current}  />
     <Board board={current.board} handleSquareClick={handleSquareClick} winningSquares= {winningSquares} />
     <button type="button" onClick={onNewGame} 
