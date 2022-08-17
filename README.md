@@ -16,4 +16,4 @@ Stack:
 
 ## Deployment
 
-Deployed to surge.sh -> https://tictacgamefun.surge.sh/
+Deployed to surge.sh -> https://tictactoe-fungame.surge.sh/
